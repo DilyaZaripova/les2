@@ -1,0 +1,12 @@
+@import "variables";
+@import "mixins";
+@import "components";
+
+/*$cols:12;
+
+@for $i from through $cols{
+        .col-#{i}{
+            width: 100%/($cols/$i);
+            float: left;
+        }
+    }*/
